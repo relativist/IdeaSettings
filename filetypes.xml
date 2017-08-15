@@ -1,0 +1,14 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="o" type="PLAIN_TEXT" />
+      <mapping pattern="toDelete" type="PLAIN_TEXT" />
+      <mapping pattern="b" type="PLAIN_TEXT" />
+      <mapping ext="csv" type="PLAIN_TEXT" />
+      <mapping ext="cli" type="PLAIN_TEXT" />
+      <mapping ext="file" type="PLAIN_TEXT" />
+      <mapping ext="jenkins" type="PLAIN_TEXT" />
+      <mapping ext="name" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>
