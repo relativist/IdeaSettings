@@ -7,7 +7,7 @@
     <option name="SKIP_RESULTS_WHEN_ONE_USAGE" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.java" />
+    <option name="FILE_MASK" value="*.xml" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -21,10 +21,8 @@
       <mask>*.c</mask>
       <mask>*.xnk</mask>
       <mask>*.xn</mask>
-      <mask>*.xml</mask>
       <mask>*.jav</mask>
       <mask>*.</mask>
-      <mask>*.x</mask>
       <mask>*.xh</mask>
       <mask>*.xht</mask>
       <mask>*.xhtm</mask>
@@ -33,6 +31,8 @@
       <mask>*.ja</mask>
       <mask>*.java</mask>
       <mask>*.java</mask>
+      <mask>*.x</mask>
+      <mask>*.xml</mask>
     </recentFileMasks>
   </component>
 </application>
