@@ -5,6 +5,7 @@
     <option name="skipResultsWithOneUsage" value="true" />
     <option name="SKIP_RESULTS_WHEN_ONE_USAGE" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
+    <option name="FILE_MASK" value="*.xhtml" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -23,13 +24,13 @@
       <mask>*.xh</mask>
       <mask>*.xht</mask>
       <mask>*.xhtm</mask>
-      <mask>*.xhtml</mask>
       <mask>*.j</mask>
       <mask>*.ja</mask>
       <mask>*.x</mask>
       <mask>*.xml</mask>
       <mask>*.java</mask>
       <mask>*.java</mask>
+      <mask>*.xhtml</mask>
     </recentFileMasks>
   </component>
 </application>
