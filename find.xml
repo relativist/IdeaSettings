@@ -30,10 +30,10 @@
       <mask>*.xhtm</mask>
       <mask>java</mask>
       <mask>.java</mask>
-      <mask>*.java</mask>
-      <mask>*.java</mask>
       <mask>*.html</mask>
       <mask>*.xhtml</mask>
+      <mask>*.java</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
