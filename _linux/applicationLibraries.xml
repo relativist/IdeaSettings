@@ -1,0 +1,16 @@
+<application>
+  <component name="libraryTable">
+    <library name="jackson-core-2.7.4">
+      <CLASSES>
+        <root url="jar:///opt/wildfly-10.1/modules/system/layers/base/com/fasterxml/jackson/core/jackson-core/main/jackson-core-2.7.4.jar!/" />
+        <root url="jar:///opt/wildfly-10.1/modules/system/layers/base/org/codehaus/woodstox/main/stax2-api-3.1.4.jar!/" />
+        <root url="jar:///opt/wildfly-10.1/modules/system/layers/base/org/codehaus/woodstox/main/woodstox-core-asl-4.4.1.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <LIBRARY_FILE />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.ideaLibSources/woodstox-core-asl-4.4.1-sources.jar!/" />
+      </SOURCES>
+    </library>
+  </component>
+</application>
