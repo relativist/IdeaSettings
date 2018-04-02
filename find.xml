@@ -2,40 +2,8 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="localCaseSensitive" value="true" />
     <option name="skipResultsWithOneUsage" value="true" />
     <option name="SKIP_RESULTS_WHEN_ONE_USAGE" value="true" />
-    <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <recentFileMasks>
-      <mask>*.properties</mask>
-      <mask>*.jsp</mask>
-      <mask>*.js</mask>
-      <mask>*.as</mask>
-      <mask>*.mxml</mask>
-      <mask>pom.xml</mask>
-      <mask>*.css</mask>
-      <mask>*.cs</mask>
-      <mask>*.c</mask>
-      <mask>*.xnk</mask>
-      <mask>*.xn</mask>
-      <mask>*.jav</mask>
-      <mask>*.</mask>
-      <mask>*.j</mask>
-      <mask>*.ja</mask>
-      <mask>*.xml</mask>
-      <mask>j</mask>
-      <mask>ja</mask>
-      <mask>*.x</mask>
-      <mask>*.xh</mask>
-      <mask>*.xht</mask>
-      <mask>*.xhtm</mask>
-      <mask>java</mask>
-      <mask>.java</mask>
-      <mask>*.html</mask>
-      <mask>*.xhtml</mask>
-      <mask>*.java</mask>
-      <mask>*.java</mask>
-    </recentFileMasks>
   </component>
 </application>
