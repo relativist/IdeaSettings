@@ -1,5 +1,6 @@
 <application>
   <component name="IntentionManagerSettings">
     <ignoreAction name="Declaration/Split Declaration" />
+    <ignoreAction name="Java/Control Flow/Extract to method reference" />
   </component>
 </application>
