@@ -11,6 +11,7 @@
       <mapping ext="file" type="PLAIN_TEXT" />
       <mapping ext="jenkins" type="PLAIN_TEXT" />
       <mapping ext="name" type="PLAIN_TEXT" />
+      <removed_mapping ext="tsv" approved="true" type="TSV" />
     </extensionMap>
   </component>
 </application>
