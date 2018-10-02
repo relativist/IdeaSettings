@@ -6,7 +6,6 @@
     <option name="SKIP_RESULTS_WHEN_ONE_USAGE" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
     <mask>*.properties</mask>
-    <mask>*.html</mask>
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
     <mask>*.js</mask>
@@ -18,5 +17,6 @@
     <mask>*ts</mask>
     <mask>*.xhtml</mask>
     <mask>*.java</mask>
+    <mask>*.html</mask>
   </component>
 </application>
