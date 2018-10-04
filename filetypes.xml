@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="MaterialModule.ts" type="PLAIN_TEXT" />
       <mapping pattern="o" type="PLAIN_TEXT" />
       <mapping pattern="toDelete" type="PLAIN_TEXT" />
       <mapping pattern="b" type="PLAIN_TEXT" />
