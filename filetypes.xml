@@ -1,17 +1,19 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping ext="klib" type="ARCHIVE" />
       <mapping pattern="MaterialModule.ts" type="PLAIN_TEXT" />
+      <mapping pattern="requestEtkaProfile.xml" type="PLAIN_TEXT" />
       <mapping pattern="o" type="PLAIN_TEXT" />
       <mapping pattern="toDelete" type="PLAIN_TEXT" />
       <mapping pattern="b" type="PLAIN_TEXT" />
       <mapping pattern="readme" type="PLAIN_TEXT" />
-      <mapping pattern="requestEtkaProfile.xml" type="PLAIN_TEXT" />
       <mapping ext="cli" type="PLAIN_TEXT" />
       <mapping ext="tsv" type="PLAIN_TEXT" />
       <mapping ext="file" type="PLAIN_TEXT" />
       <mapping ext="jenkins" type="PLAIN_TEXT" />
       <mapping ext="name" type="PLAIN_TEXT" />
+      <removed_mapping ext="tsv" approved="true" type="TSV" />
       <removed_mapping ext="tsv" approved="true" type="TSV" />
     </extensionMap>
   </component>
