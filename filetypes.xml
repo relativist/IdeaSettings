@@ -7,6 +7,7 @@
       <mapping pattern="o" type="PLAIN_TEXT" />
       <mapping pattern="toDelete" type="PLAIN_TEXT" />
       <mapping pattern="b" type="PLAIN_TEXT" />
+      <mapping pattern="help" type="PLAIN_TEXT" />
       <mapping pattern="readme" type="PLAIN_TEXT" />
       <mapping ext="cli" type="PLAIN_TEXT" />
       <mapping ext="tsv" type="PLAIN_TEXT" />
