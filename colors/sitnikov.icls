@@ -1,7 +1,9 @@
 <scheme name="sitnikov" version="142" parent_scheme="Default">
+  <option name="FONT_SCALE" value="1.0" />
   <option name="LINE_SPACING" value="1.0" />
   <option name="EDITOR_FONT_SIZE" value="12" />
   <option name="EDITOR_FONT_NAME" value="DejaVu Sans Mono" />
+  <option name="CONSOLE_FONT_NAME" value="DejaVu Sans Mono" />
   <attributes>
     <option name="BREAKPOINT_ATTRIBUTES">
       <value>
@@ -9,7 +11,6 @@
         <option name="ERROR_STRIPE_COLOR" value="ffc8c8" />
       </value>
     </option>
-    <option name="CONSOLE_RANGE_TO_EXECUTE" baseAttributes="INJECTED_LANGUAGE_FRAGMENT" />
     <option name="CONSOLE_YELLOW_OUTPUT">
       <value>
         <option name="FOREGROUND" value="cdcd00" />
