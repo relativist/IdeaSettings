@@ -8,6 +8,7 @@
       <mapping pattern="toDelete" type="PLAIN_TEXT" />
       <mapping pattern="MaterialModule.ts" type="PLAIN_TEXT" />
       <mapping pattern="readme" type="PLAIN_TEXT" />
+      <mapping pattern="Procfile" type="PLAIN_TEXT" />
       <mapping pattern="help" type="PLAIN_TEXT" />
       <mapping pattern="npmrc" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
