@@ -16,8 +16,8 @@
     <mask>*ts</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
-    <mask>*.xhtml</mask>
     <mask>*.java</mask>
     <mask>pom.xml</mask>
+    <mask>*.xhtml</mask>
   </component>
 </application>
