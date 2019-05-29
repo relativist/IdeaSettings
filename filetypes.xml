@@ -11,6 +11,7 @@
       <mapping pattern="readme" type="PLAIN_TEXT" />
       <mapping pattern="1" type="PLAIN_TEXT" />
       <mapping pattern=".help" type="PLAIN_TEXT" />
+      <mapping ext="bu" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="cli" type="PLAIN_TEXT" />
       <mapping ext="tsv" type="PLAIN_TEXT" />
