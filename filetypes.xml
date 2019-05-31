@@ -9,6 +9,7 @@
       <mapping pattern="b" type="PLAIN_TEXT" />
       <mapping pattern="help" type="PLAIN_TEXT" />
       <mapping pattern="readme" type="PLAIN_TEXT" />
+      <mapping pattern="2" type="PLAIN_TEXT" />
       <mapping pattern="1" type="PLAIN_TEXT" />
       <mapping pattern=".help" type="PLAIN_TEXT" />
       <mapping ext="bu" type="PLAIN_TEXT" />
