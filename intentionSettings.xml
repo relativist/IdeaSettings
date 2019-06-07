@@ -2,5 +2,7 @@
   <component name="IntentionManagerSettings">
     <ignoreAction name="Other/Sort content" />
     <ignoreAction name="Java/Refactorings/Introduce local variable" />
+    <ignoreAction name="Java/Declaration/Split Declaration" />
+    <ignoreAction name="Language Injection/Inject language or reference" />
   </component>
 </application>
