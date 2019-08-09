@@ -1,0 +1,34 @@
+<application>
+  <component name="libraryTable">
+    <library name="Python 3.6 (course3) interpreter library">
+      <CLASSES>
+        <root url="file:///usr/lib/python3.6" />
+        <root url="file:///usr/lib/python3.6/lib-dynload" />
+        <root url="file://$USER_HOME$/PycharmProjects/course3/venv/lib/python3.6/site-packages" />
+        <root url="jar://$USER_HOME$/PycharmProjects/course3/venv/lib/python3.6/site-packages/setuptools-40.8.0-py3.6.egg!/" />
+        <root url="file://$USER_HOME$/PycharmProjects/course3/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2019.1/system/python_stubs/622779172" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
+      </CLASSES>
+      <JAVADOC />
+      <LIBRARY_FILE />
+      <SOURCES>
+        <root url="file:///usr/lib/python3.6" />
+        <root url="file:///usr/lib/python3.6/lib-dynload" />
+        <root url="file://$USER_HOME$/PycharmProjects/course3/venv/lib/python3.6/site-packages" />
+        <root url="jar://$USER_HOME$/PycharmProjects/course3/venv/lib/python3.6/site-packages/setuptools-40.8.0-py3.6.egg!/" />
+        <root url="file://$USER_HOME$/PycharmProjects/course3/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2019.1/system/python_stubs/622779172" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
+      </SOURCES>
+    </library>
+  </component>
+</application>
