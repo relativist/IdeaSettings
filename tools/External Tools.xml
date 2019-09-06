@@ -10,7 +10,7 @@
     <exec>
       <option name="COMMAND" value="bash" />
       <option name="PARAMETERS" value="reload-axpl-admin-static.sh" />
-      <option name="WORKING_DIRECTORY" value="$ContentRoot$/docker" />
+      <option name="WORKING_DIRECTORY" value="$ContentRoot$/builder-static" />
     </exec>
   </tool>
 </toolSet>
