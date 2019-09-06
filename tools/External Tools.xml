@@ -3,7 +3,7 @@
     <exec>
       <option name="COMMAND" value="bash" />
       <option name="PARAMETERS" value="reload-axpl-admin.sh" />
-      <option name="WORKING_DIRECTORY" value="$FileDir$" />
+      <option name="WORKING_DIRECTORY" value="$ContentRoot$/builder" />
     </exec>
   </tool>
 </toolSet>
