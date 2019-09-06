@@ -6,4 +6,11 @@
       <option name="WORKING_DIRECTORY" value="$ContentRoot$/builder" />
     </exec>
   </tool>
+  <tool name="rebuild-static" description="rebuild static files" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="bash" />
+      <option name="PARAMETERS" value="reload-axpl-admin-static.sh" />
+      <option name="WORKING_DIRECTORY" value="$ContentRoot$/docker" />
+    </exec>
+  </tool>
 </toolSet>
