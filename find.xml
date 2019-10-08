@@ -18,7 +18,7 @@
     <mask>*js</mask>
     <mask>*.xhtml</mask>
     <mask>*.html</mask>
-    <mask>*ts</mask>
     <mask>*.java</mask>
+    <mask>*ts</mask>
   </component>
 </application>
