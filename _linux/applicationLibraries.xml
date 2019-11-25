@@ -1,13 +1,11 @@
 <application>
   <component name="libraryTable">
-    <library name="Python 3.6 (PyAttanndance) interpreter library">
+    <library name="Python 3.7 interpreter library">
       <CLASSES>
-        <root url="file:///usr/lib/python3.6" />
-        <root url="file:///usr/lib/python3.6/lib-dynload" />
-        <root url="file://$USER_HOME$/a3n_projects/PyAttanndance/venv/lib/python3.6/site-packages" />
-        <root url="jar://$USER_HOME$/a3n_projects/PyAttanndance/venv/lib/python3.6/site-packages/setuptools-40.8.0-py3.6.egg!/" />
-        <root url="file://$USER_HOME$/a3n_projects/PyAttanndance/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg" />
-        <root url="file://$USER_HOME$/.IntelliJIdea2019.2/system/python_stubs/-1930685441" />
+        <root url="file:///usr/lib/python3.7" />
+        <root url="file:///usr/lib/python3.7/lib-dynload" />
+        <root url="file:///usr/lib/python3.7/site-packages" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/python_stubs/-1247971762" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
@@ -15,44 +13,11 @@
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
       </CLASSES>
       <JAVADOC />
-      <LIBRARY_FILE />
       <SOURCES>
-        <root url="file:///usr/lib/python3.6" />
-        <root url="file:///usr/lib/python3.6/lib-dynload" />
-        <root url="file://$USER_HOME$/a3n_projects/PyAttanndance/venv/lib/python3.6/site-packages" />
-        <root url="jar://$USER_HOME$/a3n_projects/PyAttanndance/venv/lib/python3.6/site-packages/setuptools-40.8.0-py3.6.egg!/" />
-        <root url="file://$USER_HOME$/a3n_projects/PyAttanndance/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg" />
-        <root url="file://$USER_HOME$/.IntelliJIdea2019.2/system/python_stubs/-1930685441" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
-      </SOURCES>
-    </library>
-    <library name="Python 3.6 virtualenv at ~/a3n_projects/PyAttanndance/env interpreter library">
-      <CLASSES>
-        <root url="file:///usr/lib/python3.6" />
-        <root url="file:///usr/lib/python3.6/lib-dynload" />
-        <root url="file://$USER_HOME$/PycharmProjects/course3/venv/lib/python3.6/site-packages" />
-        <root url="jar://$USER_HOME$/PycharmProjects/course3/venv/lib/python3.6/site-packages/setuptools-40.8.0-py3.6.egg!/" />
-        <root url="file://$USER_HOME$/PycharmProjects/course3/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg" />
-        <root url="file://$USER_HOME$/.IntelliJIdea2019.1/system/python_stubs/622779172" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
-      </CLASSES>
-      <JAVADOC />
-      <LIBRARY_FILE />
-      <SOURCES>
-        <root url="file:///usr/lib/python3.6" />
-        <root url="file:///usr/lib/python3.6/lib-dynload" />
-        <root url="file://$USER_HOME$/PycharmProjects/course3/venv/lib/python3.6/site-packages" />
-        <root url="jar://$USER_HOME$/PycharmProjects/course3/venv/lib/python3.6/site-packages/setuptools-40.8.0-py3.6.egg!/" />
-        <root url="file://$USER_HOME$/PycharmProjects/course3/venv/lib/python3.6/site-packages/pip-19.0.3-py3.6.egg" />
-        <root url="file://$USER_HOME$/.IntelliJIdea2019.1/system/python_stubs/622779172" />
+        <root url="file:///usr/lib/python3.7" />
+        <root url="file:///usr/lib/python3.7/lib-dynload" />
+        <root url="file:///usr/lib/python3.7/site-packages" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/python_stubs/-1247971762" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
