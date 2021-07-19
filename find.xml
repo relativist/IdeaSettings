@@ -21,5 +21,6 @@
     <mask>*.properties</mask>
     <mask>*.yml</mask>
     <mask>*.java</mask>
+    <mask>*.yaml</mask>
   </component>
 </application>
