@@ -4,6 +4,7 @@
       <list>
         <option value="$USER_HOME$/a3n_projects" />
         <option value="$USER_HOME$/proj/camel-examples/examples" />
+        <option value="$USER_HOME$/proj" />
       </list>
     </option>
   </component>
