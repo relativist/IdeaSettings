@@ -17,11 +17,14 @@
     <resource url="urn:jboss:domain:1.5" location="/opt/wildfly/docs/schema/jboss-as-config_1_5.xsd" />
     <resource url="urn:jboss:domain:1.6" location="/opt/wildfly/docs/schema/jboss-as-config_1_6.xsd" />
     <resource url="urn:jboss:domain:1.7" location="/opt/wildfly/docs/schema/jboss-as-config_1_7.xsd" />
+    <resource url="urn:jboss:domain:1.8" location="/opt/wildfly-priceloader/docs/schema/jboss-as-config_1_8.xsd" />
     <resource url="urn:jboss:domain:2.0" location="/opt/wildfly/docs/schema/jboss-as-config_2_0.xsd" />
     <resource url="urn:jboss:domain:2.1" location="/opt/wildfly/docs/schema/jboss-as-config_2_1.xsd" />
     <resource url="urn:jboss:domain:2.2" location="/opt/wildfly/docs/schema/jboss-as-config_2_2.xsd" />
     <resource url="urn:jboss:domain:3.0" location="/opt/wildfly/docs/schema/wildfly-config_3_0.xsd" />
     <resource url="urn:jboss:domain:4.0" location="/opt/wildfly/docs/schema/wildfly-config_4_0.xsd" />
+    <resource url="urn:jboss:domain:4.1" location="/opt/wildfly-priceloader/docs/schema/wildfly-config_4_1.xsd" />
+    <resource url="urn:jboss:domain:4.2" location="/opt/wildfly-priceloader/docs/schema/wildfly-config_4_2.xsd" />
     <resource url="urn:jboss:domain:batch-jberet:1.0" location="/opt/wildfly/docs/schema/wildfly-batch-jberet_1_0.xsd" />
     <resource url="urn:jboss:domain:batch:1.0" location="/opt/wildfly/docs/schema/wildfly-batch_1_0.xsd" />
     <resource url="urn:jboss:domain:bean-validation:1.0" location="/opt/wildfly/docs/schema/wildfly-bean-validation_1_0.xsd" />
@@ -161,6 +164,7 @@
     <resource url="urn:jboss:domain:undertow:1.2" location="/opt/wildfly/docs/schema/wildfly-undertow_1_2.xsd" />
     <resource url="urn:jboss:domain:undertow:2.0" location="/opt/wildfly/docs/schema/wildfly-undertow_2_0.xsd" />
     <resource url="urn:jboss:domain:undertow:3.0" location="/opt/wildfly/docs/schema/wildfly-undertow_3_0.xsd" />
+    <resource url="urn:jboss:domain:undertow:3.1" location="/opt/wildfly-priceloader/docs/schema/wildfly-undertow_3_1.xsd" />
     <resource url="urn:jboss:domain:web:1.0" location="/opt/wildfly/docs/schema/jboss-as-web_1_0.xsd" />
     <resource url="urn:jboss:domain:web:1.1" location="/opt/wildfly/docs/schema/jboss-as-web_1_1.xsd" />
     <resource url="urn:jboss:domain:web:1.2" location="/opt/wildfly/docs/schema/jboss-as-web_1_2.xsd" />
