@@ -1,0 +1,46 @@
+<application>
+  <component name="dataSourceStorage" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="pred-prod" uuid="6d36911b-6cf0-45a8-873c-87888aca7c4a">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://localhost:5442/axpl</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="patn-storage" uuid="6dc038f8-4f7f-4f52-895c-1633c336e3cc">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://db.stage.patn.prodv.net:5433/axpl</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="pred-prod storage" uuid="2d98bb23-49b6-4986-8e19-674e3e155903">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://10.34.26.197:5433/axpl</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="loyal" uuid="eff68eab-e71a-4c32-a285-f10d010dbe8f">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://db.stage.loyal.prodv.net:5432/axpl</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="patn" uuid="4baa9154-1b8a-4127-abbf-507fe39322a0">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://db.stage.patn.prodv.net:5432/axpl</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="localhost" uuid="92ce7e43-d524-472e-a369-3d8e2a2f6878">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://localhost:5432/auto3n</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="loyal-storage" uuid="e2efc0b1-c124-4344-b003-8cc81eb3840f">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://db.stage.loyal.prodv.net:5433/axpl</jdbc-url>
+    </data-source>
+  </component>
+</application>
