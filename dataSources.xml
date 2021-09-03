@@ -4,7 +4,7 @@
       <driver-ref>postgresql</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
-      <jdbc-url>jdbc:postgresql://localhost:5442/axpl</jdbc-url>
+      <jdbc-url>jdbc:postgresql://db.stage.auto3n.ru:5432/axpl</jdbc-url>
     </data-source>
     <data-source source="LOCAL" name="patn-storage" uuid="6dc038f8-4f7f-4f52-895c-1633c336e3cc">
       <driver-ref>postgresql</driver-ref>
