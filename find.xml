@@ -20,7 +20,7 @@
     <mask>*.yaml</mask>
     <mask>pom.xml</mask>
     <mask>*.html</mask>
-    <mask>*ts</mask>
     <mask>*.java</mask>
+    <mask>*ts</mask>
   </component>
 </application>
