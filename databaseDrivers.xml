@@ -7,7 +7,7 @@
       <artifact id="H2" name="H2" use="true" version="1.4.196" />
     </driver>
     <driver id="mongo">
-      <artifact id="MongoDB" name="MongoDB" use="true" version="1.7.1" />
+      <artifact id="MongoDB" name="MongoDB" use="true" version="1.12" />
     </driver>
     <driver id="sqlserver.ms">
       <artifact id="SQL Server" name="SQL Server" use="true">
