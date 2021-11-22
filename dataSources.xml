@@ -42,5 +42,11 @@
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
       <jdbc-url>jdbc:postgresql://db.stage.loyal.prodv.net:5433/axpl</jdbc-url>
     </data-source>
+    <data-source source="LOCAL" name="prod" uuid="281a6d18-9f96-4204-b28a-77c71e892cdb">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://dbn1.bus.auto3n.ru:5432/axpl</jdbc-url>
+    </data-source>
   </component>
 </application>
