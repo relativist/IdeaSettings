@@ -1,0 +1,7 @@
+<application>
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" host="dbn1.bus.auto3n.ru" id="255c8487-2ebc-4eec-8579-a0a89ab45fda" port="22" nameFormat="DESCRIPTIVE" username="auto3n" useOpenSSHConfig="true" />
+    </configs>
+  </component>
+</application>
