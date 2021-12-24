@@ -2,6 +2,7 @@
   <component name="SshConfigs">
     <configs>
       <sshConfig authType="PASSWORD" host="dbn1.bus.auto3n.ru" id="255c8487-2ebc-4eec-8579-a0a89ab45fda" port="22" nameFormat="DESCRIPTIVE" username="auto3n" useOpenSSHConfig="true" />
+      <sshConfig authType="PASSWORD" host="ui.stage.loyal.prodv.net" id="53a1b9c6-19a1-4afb-995e-743a1cd87634" port="22" nameFormat="DESCRIPTIVE" username="pg-bus" useOpenSSHConfig="true" />
     </configs>
   </component>
 </application>
