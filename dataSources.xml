@@ -48,5 +48,11 @@
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
       <jdbc-url>jdbc:postgresql://dbn1.bus.auto3n.ru:5432/axpl</jdbc-url>
     </data-source>
+    <data-source source="LOCAL" name="tcrm" uuid="b807bd64-756c-4e48-95f0-389370f96fc1">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://db.stage.tcrm.prodv.net:5432/axpl</jdbc-url>
+    </data-source>
   </component>
 </application>
