@@ -60,5 +60,11 @@
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
       <jdbc-url>jdbc:postgresql://db.stage.tcrm.prodv.net:5432/axpl</jdbc-url>
     </data-source>
+    <data-source source="LOCAL" name="gcs" uuid="0733c1e9-b8f3-4624-a012-f5394d3e9c15">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://db.stage.gcs.prodv.net:5432/axpl</jdbc-url>
+    </data-source>
   </component>
 </application>
