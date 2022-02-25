@@ -1,5 +1,6 @@
 <application>
   <component name="ExternalResourceManagerImpl">
+    <resource url="http://www.liquibase.org/xml/ns/dbchangelog" location="$USER_HOME$/.cache/JetBrains/IntelliJIdea2021.3/extResources/32a2f437_dbchangelog-3.0.xsd" />
     <resource url="urn:jboss:batch-jberet:1.0" location="/opt/wildfly/docs/schema/batch-jberet_1_0.xsd" />
     <resource url="urn:jboss:cli:1.0" location="/opt/wildfly/docs/schema/jboss-as-cli_1_0.xsd" />
     <resource url="urn:jboss:cli:1.1" location="/opt/wildfly/docs/schema/jboss-as-cli_1_1.xsd" />
