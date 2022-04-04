@@ -5,6 +5,7 @@
     <option name="skipResultsWithOneUsage" value="true" />
     <option name="SKIP_RESULTS_WHEN_ONE_USAGE" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="pom.xml" />
     <mask>*.js</mask>
     <mask>*.as</mask>
     <mask>*.mxml</mask>
@@ -13,7 +14,6 @@
     <mask>*.xhtml</mask>
     <mask>*.yml</mask>
     <mask>*.yaml</mask>
-    <mask>pom.xml</mask>
     <mask>*ts</mask>
     <mask>*.css</mask>
     <mask>*.xml</mask>
@@ -23,5 +23,6 @@
     <mask>*.ts</mask>
     <mask>*.java</mask>
     <mask>*.kt</mask>
+    <mask>pom.xml</mask>
   </component>
 </application>
