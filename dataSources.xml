@@ -16,7 +16,7 @@
       <driver-ref>postgresql</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
-      <jdbc-url>jdbc:postgresql://10.34.26.197:5433/axpl</jdbc-url>
+      <jdbc-url>jdbc:postgresql://db.stage.auto3n.ru:5433/axpl</jdbc-url>
     </data-source>
     <data-source source="LOCAL" name="loyal" uuid="eff68eab-e71a-4c32-a285-f10d010dbe8f">
       <driver-ref>postgresql</driver-ref>
@@ -70,7 +70,7 @@
       <driver-ref>postgresql</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
-      <jdbc-url>jdbc:postgresql://usearch.stage.gcs.prodv.net:5432/tecdoc</jdbc-url>
+      <jdbc-url>jdbc:postgresql://db.stage.gcs.prodv.net:5433/axpl</jdbc-url>
     </data-source>
   </component>
 </application>
