@@ -9,6 +9,7 @@
       <blacklist language="Kotlin" />
       <blacklist language="SQL" />
     </blacklists>
+    <option id="angular.show.names.for.all.args" value="true" />
     <option id="SHOW_PROPERTY_HINT" value="true" />
     <option id="SHOW_LOCAL_VARIABLE_HINT" value="true" />
     <option id="SHOW_FUNCTION_HINT" value="true" />
